@@ -4,7 +4,7 @@ const port = 3000
 
 app.get('/', (req, res) => {
     res.send('Hello World!')
-    var a = 100
+    var a = 1002
     var dev = "Sontung"
 })
 
